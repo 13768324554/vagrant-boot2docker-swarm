@@ -28,6 +28,10 @@ above with their current state. For more information about a specific
 VM, run `vagrant status NAME`.
 ```
 
+Watch the demo:
+
+[![asciicast](https://asciinema.org/a/NWO61JgmIxd5WeqLRmPzvLyrD.png)](https://asciinema.org/a/NWO61JgmIxd5WeqLRmPzvLyrD?autoplay=1)
+
 ## Contributing
 
 Contributions are greatly appreciated. The project follows the typical GitHub pull request model. Before starting any work, please either comment on an existing issue, or file a new one.
